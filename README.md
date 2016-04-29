@@ -1,6 +1,6 @@
 # Stats-week
 
-I led a statistics journal (and general-learning) club for a few months during my time at Wiser. My notes for the lectures I gave are below.
+I led a statistics study group for a few months during my time at Wiser. My notes for the lectures I gave are below.
 
 - [Cross_validation](https://github.com/anzelpwj/Stats-week/blob/master/Cross_validation.ipynb): Using scikit-learn for different Cross-Validation techniques.
 - [Jackknife_and_Bootstrap](https://github.com/anzelpwj/Stats-week/blob/master/Jackknife_and_Bootstrap.ipynb): The Jackknife, the Bootstrap, Poisson Bootstrap, and Moving-Block Bootstrap.
