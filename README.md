@@ -12,5 +12,5 @@ I led a statistics study group for a few months during my time at Wiser. My note
 
 A few incomplete notebooks are also included.
 
-- [Hilbert_Transform](https://github.com/anzelpwj/Stats-week/blob/master/Hilbert_Transform.ipynb): The Hilbert and Hilbert-Huang transforms. Need to implement HHT Marginal Transform, about 80% done.
+- [Hilbert_Transform](https://github.com/anzelpwj/Stats-week/blob/master/Hilbert_Transform.ipynb): The Hilbert and Hilbert-Huang transforms. 95% done, just need to clean up.
 - [Bayesian_blocks](https://github.com/anzelpwj/Stats-week/blob/master/Bayesian_blocks.ipynb): Knuth's rule and Bayesian Blocks for histograms/time-series data. Knuth's Rule notes are done, Bayesian Blocks needs to be done. 50% done.
