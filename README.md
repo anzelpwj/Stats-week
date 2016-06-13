@@ -12,4 +12,5 @@ I led a statistics study group for a few months during my time at Wiser. My note
 - [Fourier](https://github.com/anzelpwj/Stats-week/blob/master/Fourier.ipynb): Introduction to Fourier analysis. Fourier series, Fourier transform, the Discrete Fourier Transform and FFT, Welch's method, and Shannon-Nyquist and resolution.
 - [Savitsky_Golay_Filters](https://github.com/anzelpwj/Stats-week/blob/master/Savitsky_Golay_Filters.ipynb): Savitsky-Golay filters for periodic data. General properties and their behavior as a low-pass filter.
 - [Hilbert_Transform](https://github.com/anzelpwj/Stats-week/blob/master/Hilbert_Transform.ipynb): The Hilbert and Hilbert-Huang transforms.
+- [HOT SAX](https://github.com/anzelpwj/Stats-week/blob/master/HOT_SAX.ipynb): Keogh, et al.'s O(m) method for discord discovery in time series using Symbolic Aggregate approXimation. Probably the best acronym.
 - [Bayesian_blocks](https://github.com/anzelpwj/Stats-week/blob/master/Bayesian_blocks.ipynb): Knuth's rule and Bayesian Blocks for histograms/time-series data. Knuth's Rule notes are done, Bayesian Blocks has not been written - 50% done.
